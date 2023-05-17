@@ -1,0 +1,16 @@
+.background{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 700;
+  width: 100%;
+  height: 200px;
+  background: linear-gradient(to left , #3782f3 , #006cc5 );
+}
+.channel-info{
+  background-color: #f00;
+  width: 100%;
+  height: 100px;
+}
